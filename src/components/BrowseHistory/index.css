@@ -1,0 +1,26 @@
+.listItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  background-color: lightpink;
+  border-radius: 10px;
+  padding: 10px;
+}
+.name {
+  font-weight: bold;
+  margin: 10px;
+}
+.span {
+  font-weight: 200;
+}
+.image {
+  height: 60px;
+  margin: 10px;
+}
+.input {
+  width: 80%;
+  height: 40px;
+  margin: 10px;
+  background-color: lightblue;
+}
